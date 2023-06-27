@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    
+    margin: 0;
+    padding: 0;
+    background-image: url('liquid.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+}  
+
+.img1{
+    margin-top: 35px;
+    margin-left: 65px;
+}
+
+.box{
+ display: flex;
+}
+p{
+   color: #FFFFFF;
+   margin-top: 150px;
+   margin-left: 260px;
+   font-size: 18px;
+}
+
+h1{
+    color: #FFFFFF;
+    margin-top: -25px;
+    margin-left: 255px;
+    font-size: 102px;
+ }
+
+ h3{
+    color: #FFFFFF;
+    margin-top: -70px;
+    margin-left: 255px;
+    font-size: 22px;
+ }
+
+ .img2{
+    position: absolute;
+    margin-top: -412px;
+    margin-left: 565px;
+ }
+
+ .bt{
+   
+    width: 160px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    margin-top: 50px;
+    margin-left: 45%;
+ }
+
+ span{
+    color: #FFFFFF;
+ }
